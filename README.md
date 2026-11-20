@@ -29,7 +29,6 @@ Tests include positive cases, negative cases (missing token, invalid data, wrong
 - Requesting a non-existent song ID returned 204 instead of 404 Not Found.
 
 ## Notes
-- Collection file: `API Koel.postman_collection (2).json` (consider renaming to `koel-api.postman_collection.json`)
 - Tests follow the acceptance criteria from the internship user stories.
 - Bugs were logged in Jira with steps, expected vs actual results, and screenshots.
 
