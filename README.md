@@ -35,4 +35,4 @@ Tests include positive cases, negative cases (missing token, invalid data, wrong
 
 ## Author
 Daniel Vasquez  
-QA Tester transitioning to automation
+QA Engineer
